@@ -1,0 +1,25 @@
+---
+layout: none
+---
+
+/* TEAM */
+
+	Adam Becker
+	Twitter: @adamjacobbecker
+	From: Oakland, CA
+
+	Clay Johnson
+	Twitter: @cjoh
+	From: Washington, DC
+
+	Jed Wood
+	Twitter: @silentrant
+	From: Chicago, IL
+
+/* SITE */
+
+Last Update: {{ site.time }}
+Generator: Jekyll
+Hosting: GitHub Pages
+Standards: HTML5, CSS3
+Components: HTMl5 Boilerplate, jQuery, Mondernizr
