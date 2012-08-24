@@ -207,12 +207,12 @@ button::-moz-focus-inner, input::-moz-focus-inner {padding: 0;border: 0;}
 
 html {
   height: 100%;
-  background: #0C223F;
+  background: #004444;
 }
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background: #0C223F;
+  background: #004444;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -275,10 +275,10 @@ header h2.organization {
 }
 
 /*** Core Link Styles ***/
-a {color: #17375E; text-decoration: none;}
-a:active {color: #457DB3;}
-a:hover {color: #457DB3; text-decoration: underline;}
-a:visited {color: #17375E;}
+a {color: #713300; text-decoration: none;}
+a:active {color: #B88153;}
+a:hover {color: #4A2100; text-decoration: underline;}
+a:visited {color: #713300;}
 
 .contentarea {margin: 0 4%;}
 
@@ -1320,7 +1320,7 @@ header h2.organization {width: 55%;}
 	margin-right: 0;
 }
 
-  nav.sticky{ position: fixed; top: 0; margin-top: 0 !important; background: #0A2240; left: 3.5%; width: 12%; margin-left: .15%; }
+  nav.sticky{ position: fixed; top: 0; margin-top: 0 !important; left: 3.5%; width: 12%; margin-left: .15%; }
 
   /* nav.sticky ul.page-list li a {padding: 0; margin: 0;}
 
