@@ -240,7 +240,7 @@ header h1 a {
 header h1 a {
   text-align: center;
   display: block;
-  padding: 1.6em 0 1em 0;
+  padding: 1.8em 0 1em 0;
 }
 
 header h1 a:hover, header h1 a:active {text-decoration: none; color: #457DB3;}
