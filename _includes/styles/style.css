@@ -1347,3 +1347,6 @@ em { font-style: italic;}
 
 .search #content li { list-style: none; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #ccc; }
 .search .no-search-results { margin-bottom: 20px; margin-top: 20px; font-style: italic; }
+
+.more { display: none; }
+.readon { font-style: italic; font-weight: bold; }
