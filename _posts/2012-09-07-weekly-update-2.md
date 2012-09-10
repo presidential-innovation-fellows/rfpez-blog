@@ -7,7 +7,7 @@ sharing: true
 category: weekly-update
 tags:
   - weekly updates
-published: false
+published: true
 ---
 
 Happy Friday! It's been a great week here at RFP-EZ, and despite not having another 3 open-source projects to show for it, I can assure you that we're making steady progress towards our goal of making government contracting a realistic endeavor for any small web business.
