@@ -1351,3 +1351,35 @@ em { font-style: italic;}
 .more { display: none; }
 .readon { font-style: italic; font-weight: bold; }
 .image-frame { border: 1px solid #ddd; padding: 2px; margin: 0 auto 24px; }
+
+.github-sentence-item {
+  padding: 0 0 5px 55px;
+  position: relative;
+  min-height: 50px;
+  margin: 5px 0;
+}
+
+.github-sentence-item .sentence {
+  margin-bottom: 3px;
+}
+
+.github-sentence-item .avatar {
+  position: absolute;
+  left: 0;
+  top: 2px;
+  border: 1px solid #d0d0d0;
+  padding: 2px;
+  width: 40px;
+  height: 40px;
+}
+
+.github-sentence-item .timestamp {
+  color: #999;
+  font-size: 11px;
+}
+
+.github-sentence-item .avatar img {
+  width: 40px;
+  height: 40px;
+}
+
