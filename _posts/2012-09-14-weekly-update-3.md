@@ -7,7 +7,7 @@ sharing: true
 category: weekly-update
 tags:
   - weekly updates
-published: false
+published: true
 ---
 
 It's been another fun-filled week at Project RFP-EZ. On Monday, I presented at the DC Tech Meetup, asking the audience to <a href="http://sba.gov/rfpez" target="_blank">sign up</a> to be part of our pilot program, and I can now say that we've got a ton of talented folks that are waiting for the chance to bid on government contracts. The really exciting part is that many of them are totally new to government contracting, which nicely fits with our goal of making these opportunities inclusive, instead of exclusive, by default.
@@ -34,4 +34,3 @@ We're super excited for you to take advantage of the opportunities we have for y
 
 Until next week,<br />
 Adam, Jed, Clay and the rest of the RFP-EZ team
-
