@@ -1350,3 +1350,4 @@ em { font-style: italic;}
 
 .more { display: none; }
 .readon { font-style: italic; font-weight: bold; }
+.image-frame { border: 1px solid #ddd; padding: 2px; margin: 0 auto 24px; }
