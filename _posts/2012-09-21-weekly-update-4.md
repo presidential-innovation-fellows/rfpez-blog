@@ -4,7 +4,7 @@ This week's been about three letters: P-R-A. PRA actually stands for a few thing
 
 We want that too. We want our forms to be as burden-free and as simple to use as possible. Obviously the more people we have participating with us, the better. So we're not only going to comply with the legislation, we're also going to build tools to make compliance easier and more within the spirit of the law.
 
-FormTimer -- what Jed's been working on this week -- is the start of that. This software is really simple -- it lets government time and see in real time how long it takes for people to fill out forms. By embedding a bit of javascript on a page, the software will time citizen interactions with forms and report back how long, on average it takes for people to fill out our forms.
+FormTimer -- what Jed's been working on this week -- is the start of that. This software is really simple -- it lets government time and see in real time how long it takes for people to fill out forms. By embedding a bit of javascript on a page, the software will time citizen interactions with forms and report back how long, on average it takes for people to fill out our forms. [Here's a demo](http://rfpez-apis.presidentialinnovationfellows.org/formtimer/example)
 
 Hopefully this kind of tool can be used and implemented by anybody who wants to drive down the amount of time it takes their users to fill out their forms using live, real user data to make sure the discussions being had are based on real, live data rather than estimates which may not be the actual tangible outcomes of decisions being made.
 
