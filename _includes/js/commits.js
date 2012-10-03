@@ -4,6 +4,7 @@ $(function(){
           + ' WHERE url in ("https://api.github.com/repos/presidential-innovation-fellows/sowcomposer/events",'
           + '"https://api.github.com/repos/presidential-innovation-fellows/rfpez-apis/events",'
           + '"https://api.github.com/repos/presidential-innovation-fellows/apidocs/events",'
+          + '"https://api.github.com/repos/presidential-innovation-fellows/rfpez/events",'
           + '"https://api.github.com/repos/presidential-innovation-fellows/rfpez-blog/events")'
           + ' AND (json.type = "CreateEvent" OR json.type = "PullRequestEvent" OR json.type = "PushEvent")'
           + ' | SORT(field="json.created_at", descending="true") | truncate(count=10)';
