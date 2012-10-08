@@ -2,9 +2,9 @@
 
   var stickyNav = function(){
     if ($(window).scrollTop() >= 196){
-      $("nav").addClass("sticky");
+      $("#nav-wrap").addClass("sticky");
     } else {
-      $("nav").removeClass("sticky");
+      $("#nav-wrap").removeClass("sticky");
     }
   }
 
