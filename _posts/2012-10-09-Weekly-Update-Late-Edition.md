@@ -10,17 +10,7 @@ published: true
 
 ---
 
----
-title: Weekly Update Late Edition
-layout: post
-author: Clay Johnson
-comments: false
-sharing: true
-category: weekly-update
-tags:
-  - weekly updates
-published: true
----
+
 
 Let's just get it out of the way: we know you've become dependent on Project RFP-EZ's weekly FRIDAY status updates, and we are so sorry we didn't get one out this time. It must have been an agonizing three day weekend, filled with sleepless nights as you wondered what is happening with Project RFP-EZ. But things happen, and we hope we didn't ruin your weekend.
 
