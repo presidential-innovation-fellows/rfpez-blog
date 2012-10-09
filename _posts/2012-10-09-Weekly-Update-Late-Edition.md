@@ -1,7 +1,7 @@
 ---
-title: "Title of the post"
-description: "SEO friendly description"
-author: "Your Name Here"
+title: "Weekly Update 6"
+description: "The 6th Update from the RFP-EZ team"
+author: "Clay Johnson"
 layout: post
 comments: true
 category:
