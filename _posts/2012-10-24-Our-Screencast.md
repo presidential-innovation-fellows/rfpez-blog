@@ -6,7 +6,7 @@ layout: post
 comments: true
 category: Screencasts
 tags: screencast
-published: false
+published: true
 
 ---
 
