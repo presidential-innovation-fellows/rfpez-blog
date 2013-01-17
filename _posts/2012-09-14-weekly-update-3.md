@@ -16,8 +16,6 @@ It's been another fun-filled week at Project RFP-EZ. On Monday, I presented at t
   <img src="{{site.url}}/images/adam-dctech.jpg" />
 </div>
 
-<!-- more -->
-
 We haven't been slacking on the code front this week either. Adding to the 2 APIs that we've already published, we're proud to announce that we're pulling in all new contracting opportunities from <a href="http://www.fbo.gov" target="_blank">FedBizOpps</a> and exposing them in a <a href="http://rfpez-apis.presidentialinnovationfellows.org/opportunities">RESTful JSON API</a>.
 
 As far as our progress on RFP-EZ goes, we're currently working through a round of wireframes and getting ready to start coding the backend database structure. This will happen publicly on GitHub, so be sure to <a href="http://github.com/presidential-innovation-fellows/rfpez" target="_blank">keep an eye out</a>!
