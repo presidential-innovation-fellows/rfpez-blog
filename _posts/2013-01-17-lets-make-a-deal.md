@@ -1,8 +1,10 @@
 ---
 title: Let's make a deal
+description:
 author: Clay Johnson
 layout: post
 comments: true
+sharing: true
 category: major news
 tags: updates
 published: true
@@ -10,19 +12,19 @@ published: true
 
 Dear Friend,
 
-Today we're taking the wraps off of a new experiment in government contracting: RFP-EZ. Our intent is to make it easier for small businesses to sell to government and easier for government to buy from small businesses. RFP-EZ is a marketplace, specifically built to buy high end professional services from small businesses in the technology sector. 
+Today we're taking the wraps off of a new experiment in government contracting: RFP-EZ. Our intent is to make it easier for small businesses to sell to government and easier for government to buy from small businesses. RFP-EZ is a marketplace, specifically built to buy high end professional services from small businesses in the technology sector.
 
 Starting right now, you can bid on a variety of contracts today ranging from video transcription to web design to web application development. If you've never done business before, you don't have to worry about getting on any schedules or long, cumbersome registration processes. We'll deal with that when you become a potential awardee, and help you through the process.
 
-You can register and start bidding now, here: 
+You can register and start bidding now, here:
 
 http://rfpez.sba.gov
 
-Just click on "Register as a Business," fill out our basic registration form, and you're ready to bid on Federal Contracts. 
+Just click on "Register as a Business," fill out our basic registration form, and you're ready to bid on Federal Contracts.
 
 Some details:
 
-The projects inside of RFP-EZ are only "simplified acquisition threshold" projects. This means that they qualify for simpler procurement procedures because the value of the contract is in a certain range -- in this case between $3,000 and $150,000. 
+The projects inside of RFP-EZ are only "simplified acquisition threshold" projects. This means that they qualify for simpler procurement procedures because the value of the contract is in a certain range -- in this case between $3,000 and $150,000.
 
 They're geared towards web-based digital professional services -- services like web design and development, social media, digital video, and the like. So if you or your firm tends to be good at these things, submit your bid. If not, then hold on. As we learn more from this experiment, we may grow the platform to other categories.
 

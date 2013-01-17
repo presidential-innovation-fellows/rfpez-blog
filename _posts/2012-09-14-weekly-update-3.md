@@ -1,5 +1,6 @@
 ---
 title: Weekly Update &#35;3
+description:
 layout: post
 author: Adam Becker
 comments: false

@@ -1,5 +1,6 @@
 ---
 title: Weekly Update &#35;2
+description:
 layout: post
 author: Team RFP-EZ
 comments: false

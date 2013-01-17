@@ -4,13 +4,14 @@ description: Weekly Update from the RFP-EZ team
 author: Clay Johnson
 layout: post
 comments: true
+sharing: true
 category: weekly update
 tags: updates
 published: true
 
 ---
 
-Happy Friday everyone! 
+Happy Friday everyone!
 
 RFP-EZ has had a busy last couple of weeks as we put the finishing touches on our pilot project. This week and next are all about demonstrations to the acquisitions community inside of government -- essentially the same demonstration that we gave to you [last week](http://presidential-innovation-fellows.github.com/rfpez-blog/2012/10/24/Our-Screencast/), but in front of live human beings at places like the Front Line Forum and for the [Rising Acquisition Professionals](http://rapcomm.org/), where we even got to meet Procurement Legend [Ralph Nash](http://www.fedpubseminars.com/Page/?id=21). The feedback that we've gotten has been great.
 

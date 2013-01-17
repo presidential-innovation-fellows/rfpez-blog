@@ -4,6 +4,7 @@ description: "Screencast of Version 0.1 of RFP-EZ"
 author: "Clay Johnson"
 layout: post
 comments: true
+sharing: true
 category: Screencasts
 tags: screencast
 published: true
