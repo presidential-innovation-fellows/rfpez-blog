@@ -1,6 +1,6 @@
 ---
 title: Weekly Update &#35;5
-description:
+description: Weekly Update &#35;5
 layout: post
 author: Clay Johnson
 comments: false

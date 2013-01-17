@@ -1,6 +1,6 @@
 ---
 title: Let's make a deal
-description:
+description: Let's make a deal
 author: Clay Johnson
 layout: post
 comments: true
