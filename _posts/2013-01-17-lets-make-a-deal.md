@@ -1,13 +1,11 @@
 ---
 title: Let's make a deal
-description: RFP-EZ Launches!
 author: Clay Johnson
 layout: post
 comments: true
 category: major news
 tags: updates
 published: true
-
 ---
 
 Dear Friend,
