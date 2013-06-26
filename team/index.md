@@ -8,7 +8,7 @@ description: We’re the four Presidential Innovation Fellows working on RFP-EZ 
 <br>
 <a href="index2.md">RFP-EZ First Round Presidential Innovation Fellows</a>
 
-### Clay Johnson
+### Martin Ringlein
 *Presidential Innovation Fellow*{.title}
 
 ![Martin Ringlein](../images/team/marty.jpg){.alignleft}
