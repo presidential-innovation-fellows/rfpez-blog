@@ -1,25 +1,31 @@
 ---
 layout: page
 title: The Team
-description: We’re the three Presidential Innovation Fellows working on RFP-EZ.
+description: We’re the four Presidential Innovation Fellows working on RFP-EZ 2.
 ---
 
-*We’re the three Presidential Innovation Fellows working on RFP-EZ.*
+*We’re the four Presidential Innovation Fellows working on RFP-EZ 2.*
 
 ### Clay Johnson
 *Presidential Innovation Fellow*{.title}
 
-![Clay Johnson](../images/team/clay.jpg){.alignleft}
-Clay Johnson's career at the intersection of government and technology began as the Director of Sunlight Labs at the Sunlight Foundation, where he built a community of 2,000 developers, designers and technologists dedicated to helping government be more open and transparent with its stakeholders.  After Sunlight, Clay worked as the director of Engagement at Expert Labs where he worked with federal agencies to help embrace and use social media.  Recently, Clay wrote the bestselling book The Information Diet, which explores the parallels between our media and food consumption.  Clay was named the Google/O’Reilly Open Source Organizer of the year in 2009, was one of Federal Computing Week’s Fed 100 in 2010, and won the CampaignTech Innovator award in 2011.
+![Martin Ringlein](../images/team/marty.jpg){.alignleft}
+Martin Ringlein is a Presidential Innovation Fellow working on the RFP-EZ project.  A designer, entrepreneur, and angel investor, Martin was co-founder of nclud, an internationally recognized and award-winning design agency, which was acquired in early 2012 by Twitter, where he spent the past year as Design Manager.  Martin’s experience ranges from designing and directing major strategic interactive initiatives with organizations large and small, such as Apple, Google, Adobe, British Telecom, Mozilla and Oracle.  Initiatives included: the redesign of Ogilvy, Mashable, NASDAQ; developing the initial mobile strategies for The Washington Post, POLITICO, National Journal, Kiplinger, C-SPAN, PUMA, OPOWER; and designing the original brand identity for start-ups such as LivingSocial.  In addition to being a design practitioner, Martin has taught experience design at the Maryland Institute College of Art, Boston University, and General Assembly.  Martin studied Advertising & Design at The University of Maryland and Business Management at Columbia Business School and Yale School of Management. 
 
-### Jed Wood
+### Dr. Robert L. Read
 *Presidential Innovation Fellow*{.title}
 
-![Jed Wood](../images/team/jed.jpg){.alignleft}
-Jed Wood is an interaction designer, developer, and entrepreneur.  Having built experience as a usability expert, he wandered into geekier pastures of writing actual code.  He has spent the past decade bridging the gap between design and programming by creating rapid prototypes and production applications.  Jed co-founded Lime & Chile, building three web applications that were later acquired.  Most recently he was part of the Labs team at Gravity Tank.  Jed earned a master’s degree from the Institute of Design in Chicago, IL, where he now lives with his wife and two daughters.
+![Dr. Robert L. Read](../images/team/rob.jpg){.alignleft}
+Dr. Robert L. Read is a Presidential innovation Fellow working on the RFP-EZ project.  He loves programming.  Previously, Rob served as Director of Product Development at Planview, Inc., where he led agile software development teams for six years.  While doing so, he constructed the Merfluke 7, a functional but slow device for dolphin-like human-powered swimming.  Before that Rob created a website programmed in LISP for forming human consensus, and maintained and improved the Elephant LISP-based database.  He was a Principal Engineer at Hire.com, where he wrote “How to be a Programmer” and was strongly influenced by Kent Beck.  He has two patents in optics and solar energy.  He received a PhD from the University of Texas at Austin and a BA from Rice University in computer science.  Rob speaks Esperanto fluently, and has served on the board of Esperanto USA.  He lives in Austin, Texas, with his wife and two nearly-grown children.
 
-### Adam Becker
+### Aaron Snow
 *Presidential Innovation Fellow*{.title}
 
-![Adam Becker](../images/team/adam.jpg){.alignleft}
-Adam Becker is a software developer and entrepreneur.  He co-founded and served as Chief Technology Offcier of a civic-oriented startup called GovHub that aims to facilitate communication between citizens and their elected officials in local government.  Previously, Adam built a wealth of experience in different web development projects, with his very first effort being a website for his junior-high punk band.  Adam is passionate about bicycling and lives in Oakland, CA with his two cats.
+![Aaron Snow](../images/team/aaron.jpg){.alignleft}
+Aaron Snow is a Presidential Innovation Fellow working on the RFP-EZ project.  Previously, Aaron co-founded Daring Software and built the back-end for its flagship shopping app, Arro.  Prior to that, he was Web Development Manager for Birthday in a Box.  He has also served as a program manager for Microsoft, an instructor for the University of Washington Extension School, a Federal law clerk, a litigation attorney for Boies, Schiller & Flexner LLP, and a manager and senior advisor for voter protection teams on two presidential campaigns.  Aaron is an honors graduate of Harvard College, where he served as a Teaching Fellow in computer science, and Columbia Law School, where he was Technology Editor for the Columbia Law Review and received the Lance Liebman "Nice Guys Don't Necessarily Finish Last" Award.  He lives in Kensington, MD, with his wife, their two children, and an energetic puli puppy who enjoys stealing everyone's socks.
+
+### Greg Godbout
+*Presidential Innovation Fellow*{.title}
+
+![Greg Godbout](../images/team/greg.jpg){.alignleft}
+Greg Godbout is a Presidential Innovation Fellow working on the RFP-EZ project.  Greg is an entrepreneur and experienced software architect with an extensive background in improving productivity with technology.  As owner of the Arlington Cinema & Drafthouse, a unique entertainment and restaurant concept, Greg has driven innovation within the entertainment industry and built a thriving community theater with national recognition.  While balancing the responsibilities of business ownership, Greg has also nurtured his technical skills by working as a consultant for Federal agencies and private organizations.  His consulting work includes custom software development, social media solutions, and large enterprise applications.  Most recently, Greg has helped implement large-enterprise social-software solutions for the Department of Veterans Affairs and the National Archives and Records Administration.  He received a degree in Economics with a concentration in Business from St. Mary’s College of Maryland.  Greg grew up in Bethesda, MD, and lives in Arlington, VA, with his wife Colleen and daughter Ella.
