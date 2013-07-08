@@ -15,7 +15,8 @@ layout: page
 
 <h3>RFP-EZ In The News</h3>
 
-<p><a href="http://fcw.com/articles/2013/06/25/presidential-innovation-round-two.aspx" target="_blank">Jun 25, 2013 - New challenges face the new Presidential Innovation Fellows</a></p>
+<p><a href="http://www.politico.com/politico44/2013/07/obama-calls-on-congress-for-help-ending-bureaucratic-167766.html" target="_blank">July 8, 2013 - Obama calls on Congress for help ending 'bureaucratic hoop-jumping'</a></p>
+<p><a href="http://fcw.com/articles/2013/06/25/presidential-innovation-round-two.aspx" target="_blank">June 25, 2013 - New challenges face the new Presidential Innovation Fellows</a></p>
 <p><a href="http://www.whitehouse.gov/blog/2013/06/24/new-round-innovators-joins-us-government-tackle-big-challenges" target="_blank">June 24, 2013 - New Round of Innovators Joins US Government to Tackle Big Challenges</a></p>
 <p><a href="http://www.govtech.com/pcio/Presidential-Innovation-Fellows-Get-Private-and-Public-Sectors-to-Collaborate.html" target="_blank">June 10, 2013 - Presidential Innovation Fellows Get Private and Public Sectors to Collaborate</a></p>
 <p><a href="http://fcw.com/articles/2013/05/29/ez-rfp-value.aspx" target="_blank">May 29, 2013 - RFP-EZ delivers early value</a></p>
