@@ -4,7 +4,7 @@ title: The Team
 description: We’re the four Presidential Innovation Fellows working on RFP-EZ Marketplace 2.
 ---
 
-*We’re the four Presidential Innovation Fellows working on RFP-EZ 2.*
+*We’re the four Presidential Innovation Fellows working on RFP-EZ Marketplace 2.*
 <br>
 <a href="index2.md">RFP-EZ Marketplace First Round Presidential Innovation Fellows</a>
 
